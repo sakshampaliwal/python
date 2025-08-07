@@ -1,0 +1,2 @@
+attribute: it is just variables
+we follow one convention to always capitalize the first letter of the class name
